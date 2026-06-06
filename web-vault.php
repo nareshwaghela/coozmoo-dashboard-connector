@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Coozmoo Dashboard Connector
- * Plugin URI:        https://coozmoo.webvault.me/
+ * Plugin URI:        https://github.com/nareshwaghela/coozmoo-dashboard-connector
  * Description:       Connects your WordPress site to the Coozmoo central management dashboard. Supports secure token-based auto-login, REST API authentication, and SSL bypass for HTTP-only environments.
  * Version:           1.5.0
  * Requires at least: 5.8
