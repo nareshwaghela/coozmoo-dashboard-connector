@@ -3,7 +3,7 @@ Contributors: nareshwaghela
 Tags: dashboard, auto-login, rest-api, management, ssl
 Requires at least: 5.8
 Tested up to: 7.0
-Stable tag: 1.5.0
+Stable tag: 1.6.0
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -35,7 +35,7 @@ Coozmoo Dashboard Connector links your WordPress site to the Coozmoo central man
 
 == Changelog ==
 
-= 1.5.0 =
+= 1.6.0 =
 * Removed Google Fonts — now uses system font stack (no external requests)
 * Removed assets folder from plugin ZIP
 * Fixed Plugin URI
